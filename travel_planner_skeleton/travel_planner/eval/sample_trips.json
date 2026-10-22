@@ -1,0 +1,9 @@
+{
+  "_note": "Test inputs only. Fill expected constraints yourself.",
+  "trips": [
+    {"id": "manali_mountaineer", "destination": "Manali", "persona": "mountaineer", "days": 5, "max_budget_inr": null, "food_preference": "veg", "expected": {}},
+    {"id": "goa_beach", "destination": "Goa", "persona": "beach", "days": 4, "max_budget_inr": null, "food_preference": "non_veg", "expected": {}},
+    {"id": "varanasi_culture", "destination": "Varanasi", "persona": "culture_study", "days": 3, "max_budget_inr": null, "food_preference": "veg", "expected": {}},
+    {"id": "bali_international", "destination": "Bali", "persona": "beach", "days": 6, "max_budget_inr": null, "food_preference": "non_veg", "expected": {}}
+  ]
+}

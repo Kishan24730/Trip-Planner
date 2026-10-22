@@ -1,0 +1,12 @@
+# Names only. Pin versions yourself after you install.
+requests
+python-dotenv
+streamlit
+pytest
+pillow
+numpy
+# Feature 7 (pick one embedding route)
+sentence-transformers
+torch
+# Optional
+ortools

@@ -1,0 +1,17 @@
+{
+  "_schema": {
+    "country": {
+      "currency_code": "str",
+      "tipping": "str",
+      "etiquette": ["str"],
+      "plug_types": ["str"],
+      "emergency_numbers": {"police": "str", "ambulance": "str"},
+      "sim_options": ["str"],
+      "transit_pass": "str",
+      "phrases": [{"english": "str", "local": "str", "pronunciation": "str"}],
+      "source_url": "str",
+      "last_checked": "YYYY-MM-DD"
+    }
+  },
+  "countries": {}
+}

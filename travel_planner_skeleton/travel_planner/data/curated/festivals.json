@@ -1,0 +1,4 @@
+{
+  "_schema": {"city": "str", "name": "str", "month": "int 1-12", "approx_days": "str", "source_url": "str", "last_checked": "YYYY-MM-DD"},
+  "rows": []
+}

@@ -1,0 +1,1 @@
+TODO: Instruction for splitting a trip request into sub-tasks. Output must be structured.

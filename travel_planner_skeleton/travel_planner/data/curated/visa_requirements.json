@@ -1,0 +1,5 @@
+{
+  "_note": "Fill from data/context/india_passport_travel_docs_context.md and official sites. Keep source_url and last_checked on every row.",
+  "_schema": {"country": "str", "category": "visa_free | voa | e_visa | embassy", "stay_days": "int|null", "documents": ["str"], "lead_time": "str", "source_url": "str", "last_checked": "YYYY-MM-DD"},
+  "rows": []
+}

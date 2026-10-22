@@ -1,0 +1,9 @@
+{
+  "_schema": {
+    "base_items": "list[str] always packed",
+    "by_persona": {"mountaineer": "list[str]", "beach": "list[str]", "culture_study": "list[str]"},
+    "by_weather": {"hot": "list[str]", "cold": "list[str]", "rain": "list[str]", "humid": "list[str]", "snow": "list[str]"},
+    "by_activity": {"trek": "list[str]", "water_sports": "list[str]", "temple_visit": "list[str]"}
+  },
+  "rules": {}
+}

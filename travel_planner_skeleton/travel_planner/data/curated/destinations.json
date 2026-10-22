@@ -1,0 +1,5 @@
+{
+  "_note": "Destinations the recommender and photo matcher know about.",
+  "_schema": {"name": "str", "country": "str", "lat": "float", "lon": "float", "tags": ["str"], "best_months": ["int"]},
+  "rows": []
+}

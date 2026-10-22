@@ -1,0 +1,1 @@
+TODO: Instruction for soft checks (persona fit, tone). Hard checks stay in code.

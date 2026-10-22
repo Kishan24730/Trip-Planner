@@ -1,0 +1,4 @@
+{
+  "_schema": {"country": "str", "level": "low | medium | high | do_not_travel", "summary": "str", "source_url": "str", "last_checked": "YYYY-MM-DD"},
+  "rows": []
+}
